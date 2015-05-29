@@ -46,5 +46,5 @@ $application->set('person', function ($name) {
     return $person;
 });
 
-$person = $application->service('Marco');
+$person = $application->person('Marco');
 ```
