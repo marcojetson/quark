@@ -3,6 +3,9 @@ Quark
 
 Another dependency injection container
 
+[![Build status](https://img.shields.io/travis/PHP-DI/Invoker.svg?style=flat-square)](https://api.travis-ci.org/marcojetson/quark.svg?branch=master)
+[![Test coverage](https://codeclimate.com/github/marcojetson/quark/badges/coverage.svg)](https://codeclimate.com/github/marcojetson/quark/coverage)
+
 Services
 --------
 
